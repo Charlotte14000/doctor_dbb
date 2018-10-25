@@ -1,6 +1,6 @@
 # doctor_dbb
 
-# Auteures
+Auteures
 Rebecca Bossé
 Charlotte Vaudour
 
