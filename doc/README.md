@@ -1,24 +1,14 @@
-# README
+# doctor_dbb
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Auteures
+Rebecca Bossé
+Charlotte Vaudour
 
-Things you may want to cover:
+application sur rails 
 
-* Ruby version
+L'objectif est de faire une application de blog qui permet aux patients d'avoir un rdv avec des docteurs :
+-model doctor qui permet de d'avoir des renseignements sur le medecin :first_name, last_name, speciality et son code postal.
+-model doctor qui permet de d'avoir des renseignements sur le patient :first_name et last_name.
+-model doctor qui permet de d'avoir des renseignements sur la prise de rdv : date
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+##PEACE
