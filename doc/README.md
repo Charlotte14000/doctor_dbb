@@ -11,4 +11,4 @@ L'objectif est de faire une application de blog qui permet aux patients d'avoir 
 -model doctor qui permet de d'avoir des renseignements sur le patient :first_name et last_name.
 -model doctor qui permet de d'avoir des renseignements sur la prise de rdv : date
 
-##PEACE
+
